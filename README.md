@@ -1,1 +1,2 @@
 # CodeAlpha_Todo_List
+A simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, edit, mark as complete, and delete tasks, covering full CRUD operations. The app uses localStorage to save tasks so they remain available even after refreshing the page. This project demonstrates core concepts like DOM manipulation, event handling, and basic frontend development with a clean and user-friendly interface.
