@@ -49,7 +49,6 @@ button {
   cursor: pointer;
   font-weight: bold;
 }
-
 button:hover {
   background: #203a43;
 }
